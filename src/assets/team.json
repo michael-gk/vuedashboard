@@ -1,0 +1,36 @@
+{
+  "name": "Nice",
+  "spots": "8",
+  "members": [
+    {
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Bobby Orr",
+      "email": "Bobby@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Johnny Cage",
+      "email": "john@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Sub-zero",
+      "email": "Sub-zero@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Raiden",
+      "email": "Raiden@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Scorpion",
+      "email": "Scorpion@doe.com",
+      "status": "Active"
+    }
+  ]
+}
